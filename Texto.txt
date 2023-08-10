@@ -1,0 +1,187 @@
+========== HEADER ==========
+.nav__logo
+Adrian <span>Balquinta</span>
+
+.nav__link
+Inicio - Acerca de - Servicios - Proyectos - Contacto
+
+
+========== HOME ==========
+.home__subtitle
+Hola, <span>soy</span>
+
+.home__title
+Adrian Balquinta
+
+.home__education
+Desarrollador Backend
+
+.home__description
+Poseo conocimientos de desarrollo y diseño web. Entregando proyectos de gran calidad.
+
+.button
+Hablemos
+
+.home__social
+https://github.com/adrianBalquinta
+https://www.linkedin.com/
+https://www.youtube.com/channel/UCS5rGzfhmQfyfDHscxqnolQ
+
+.home__social-icon (clip-path)
+polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)
+
+
+========== ABOUT ==========
+.section__subtitle
+Mi <span>Intro</span>
+
+.section__title
+Acerca de Mí
+
+.about__description
+Desarrollador Junior de software y estudiante de la carrera Analista 
+de Sistemas, con experiencia en Desarrollo Web utilizando Java, PHP, JavaScript,
+entre otras tecnologías. Busco aplicar y ampliar mis conocimientos y habilidades.
+Me trabajar en un entorno colaborativo y desarrollar soluciones de software de calidad que aborden y resuelvan problemas empresariales.
+
+Desarrollador Junior de software y estudiante de la carrera Analista 
+de Sistemas, con experiencia en Desarrollo Web utilizando Java, PHP, JavaScript,
+entre otras tecnologías.
+Es mi interés actual seguir incursionando en al área Tecnológica, para poder desplegar los conocimientos adquiridos en mi experiencia previa.
+También es mi deseo el poder aportar en un equipo de trabajo, y, a su vez, aprender de él y seguir creciendo.
+.button
+Contactame
+
+
+========== SKILLS ==========
+.section__subtitle
+Favorite <span>Skills</span>
+
+.section__title
+Mis Skills
+
+.skills__description
+See fully what skills I have and perform, 
+to develop the projects for you.
+
+.button
+Ver Proyectos
+
+.skills__item
+Java
+PHP
+C#
+Spring
+Laravel
+HTML & CSS
+JavaScript
+Bootstrap
+SQL
+Hibarnate
+ORM
+
+Git & GitHub
+Figma
+Photoshop
+
+
+========== SERVICES ==========
+.section__subtitle
+<span>Servicios
+
+.section__title
+What I Do
+
+.services__title .services__description
+Web Developer
+Development of custom web pages. 
+Using current technologies and 
+libraries of the labor field.
+
+UI/UX Designer
+I offer design of web interfaces and 
+mobile applications, design made in 
+figma, adobe xd and sketch.
+
+Graphic Design
+I make designs at the client's request, 
+banner design, posters, digital 
+designs among others.
+
+
+========== PROJECTS ==========
+.section__subtitle
+Mis<span>Trabajos</span>
+
+.section__title
+Proyectos Recientes
+
+.projects__subtitle .projects__title .projects__button
+Web
+Modern website
+View demo
+
+
+========== CONTACT ==========
+.section__subtitle
+Get In <span>Touch</span>
+
+.section__title
+Contact Me
+
+.contact__input (placeholder)
+Enter your name
+Enter your email
+Enter your message
+
+.button (type="submit")
+Send Message
+
+
+========== EMAIL JS CONTACT ==========
+Before proceeding, I recommend creating your EmailJs account(https://www.emailjs.com/)
+
+// serviceID - templateID - #form - publicKey
+
+	// Show sent message
+
+		Message sent successfully
+
+	// Remove message after five seconds
+
+	// Clear input fields
+
+	// Show error message
+
+		Message not sent (service error)
+
+
+* Copy this code into your (Email Template)
+
+Names: {{user_name}}
+
+Email: {{user_email}}
+
+Project: {{user_project}}
+
+Best wishes,
+EmailJS team
+
+
+========== FOOTER ==========
+.footer__title
+Adrian <span>Balquinta</span>
+
+.footer__education
+Front-end Developer  
+
+.footer__social-link
+https://www.facebook.com/
+https://www.instagram.com/
+https://twitter.com/
+
+.footer__copy
+&#169; Copyright Adrian Balquinta. All rights reserved
+
+.footer__social-icon (clip-path)
+polygon(50% 0%, 100% 25%, 100% 75%, 50% 100%, 0% 75%, 0% 25%)
